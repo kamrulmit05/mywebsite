@@ -1,2 +1,2 @@
 <?php
-echo "My Website";
+echo "My Website with CI/CD";
